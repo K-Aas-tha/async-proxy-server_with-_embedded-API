@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+error_log.txt
+test_error.txt
+*.log
+
+# Temporary/Test files
+test_results.json
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# Environment variables
+.env
