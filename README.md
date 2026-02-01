@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# async-proxy-server_with-_embedded-API
-asyncio proxy server with 5 API endpoints
-=======
 # High-Performance Asyncio Proxy Server
 
 A production-ready, asynchronous proxy server built with Python asyncio and aiohttp. Optimized for high concurrency with connection pooling, native management API, and real-time observability.
