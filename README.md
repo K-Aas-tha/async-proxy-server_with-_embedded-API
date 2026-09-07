@@ -1,6 +1,6 @@
 # High-Performance Asyncio Proxy Server
 
-A production-ready, asynchronous proxy server built with Python asyncio and aiohttp. Optimized for high concurrency with connection pooling, native management API, and real-time observability.
+A production-ready, asynchronous proxy server built with Python asyncio and aiohttp. Optimized for high concurrency with connection pooling with TCP connector, native management API, ,DNS caching and real-time observability.
 
 ## 🚀 Getting Started
 
